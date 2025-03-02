@@ -1,4 +1,8 @@
-
+"""
+NumPy (numpy) – Although imported, it was not explicitly used in the code. It is commonly used for numerical computations.
+Pandas (pandas) – Used for data manipulation and creating DataFrames.
+Matplotlib (matplotlib.pyplot) – Used for data visualization, specifically to create a scatter plot.
+"""
 
 link = "https://raw.githubusercontent.com/swapnilsaurav/MachineLearning/refs/heads/master/4_Position_Salaries.csv"
 import numpy as np
