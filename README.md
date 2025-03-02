@@ -12,4 +12,20 @@ Implemented data-driven insights by labeling and formatting the visualization fo
 Applied fundamental data science techniques to explore salary progression, demonstrating proficiency in data manipulation and visualization.
 
 
+Project: Regression Analysis on Student Scores Dataset
+Description:
 
+Utilized Python and Scikit-Learn to perform regression analysis on a student scores dataset.
+Preprocessed data using Pandas, extracting independent variables (study hours, previous scores, etc.) and the dependent variable (final score).
+Implemented Linear Regression, Ridge Regression, and Lasso Regression to predict student performance.
+Split data into training and testing sets using train_test_split to evaluate model performance.
+Fine-tuned the Lasso Regression model by iterating over different alpha values to identify the optimal regularization parameter.
+Evaluated model accuracy using Root Mean Squared Error (RMSE) and R² score for training and test sets.
+Demonstrated proficiency in data preprocessing, model selection, hyperparameter tuning, and performance evaluation.
+Libraries Used:
+Pandas – For data loading and preprocessing.
+Matplotlib – (Imported but not used in this code). Typically used for data visualization.
+Scikit-Learn (sklearn)
+LinearRegression, Ridge, Lasso – For different regression models.
+train_test_split – For splitting data into training and test sets.
+metrics – For evaluating model performance (RMSE, R² score).
